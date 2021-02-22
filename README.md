@@ -5,4 +5,11 @@
 * 项目从即日起到12月答辩前，禁止一切熬夜行为，12点一定在床上，建议设置定时关机功能。
 * 讨论方式：微信+腾讯会议+zoom+电话
 * 提问方式：平常遇到的一切问题均可微信、腾讯会议讨论，如是长期问题，就在github上贴issue.
+
+
+
 **劳逸结合，健康工作50年！幸福生活一辈子！**
+
+
+
+参考文献格式生成器(APA): [1](https://www.citethisforme.com/us/citation-generator/apa) [2](https://www.scribbr.com/apa-citation-generator/) 
