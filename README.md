@@ -12,4 +12,6 @@
 
 
 
-参考文献格式生成器(APA): [1](https://www.citethisforme.com/us/citation-generator/apa) [2](https://www.scribbr.com/apa-citation-generator/) 
+参考文献格式生成器(APA): [1](https://www.citethisforme.com/us/citation-generator/apa)    [2](https://www.scribbr.com/apa-citation-generator/) 
+
+[西瓜书笔记(全)](https://github.com/Vay-keen/Machine-learning-learning-notes)
