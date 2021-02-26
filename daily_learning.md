@@ -26,3 +26,7 @@ xzh：null
 
 Feb25:
 xzh:西瓜书第三章（LDA需再学习），openpose论文（磕磕绊绊两页）
+cj:C++结构体函数
+
+Feb26
+cj：查看论文两篇。
