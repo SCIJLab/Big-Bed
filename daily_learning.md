@@ -35,7 +35,11 @@ xzh:西瓜书第四章（数学公式在将来使用时需特别记忆）
 ysx: 西瓜书13章后面怀疑人生，cs231n_完结_。另找机器学习的资料，西瓜书当作参考。
 
 Feb27
-xzh:null
+xzh:null 
+
+ysx: coursera machine learning week2
 
 Feb28:
 xzh:cs231n一篇
+
+ysx: 全组写报告，报的课赶工
