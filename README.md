@@ -14,4 +14,8 @@
 
 参考文献格式生成器(APA): [1](https://www.citethisforme.com/us/citation-generator/apa)    [2](https://www.scribbr.com/apa-citation-generator/) 
 
-[西瓜书笔记(全)](https://github.com/Vay-keen/Machine-learning-learning-notes)[本学期学习资源推荐](https://github.com/dorm308/Share/blob/main/README.md)
+[西瓜书笔记(全)](https://github.com/Vay-keen/Machine-learning-learning-notes)   [阿瓦达啃大瓜视频](https://www.bilibili.com/video/BV17J411C7zZ?p=65)
+
+
+
+[本学期学习资源推荐](https://github.com/dorm308/Share/blob/main/README.md)
