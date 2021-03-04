@@ -36,24 +36,26 @@ ysx: 西瓜书13章后面怀疑人生，cs231n_完结_。另找机器学习的�
 
 Feb27
 xzh:null 
-
+cj:null
 ysx: coursera machine learning week2
 
 Feb28:
 xzh:cs231n一篇
-
+cj:cs231n p19
 ysx: 全组写报告，报的课赶工
 
 Mar1:
 xzh:cs231n(3/4)篇
-
+cj:西瓜书神经网络bp训练算法。
 ysx: 看计算机网络的应用层。睡着摸鱼了。
 
 Mar2:
 xzh:cs231n(5/4)篇
+cj:null
 
 Mar3:
 xzh:cs231n一篇
+cj:西瓜书神经网络RBF网络
 
 Mar4：
 cj:配置win10 st-gcn可运行demo。 离散数学逻辑运算符号使用。 改ppt申请书。 python循环语句for <variable> in <list>: <statements>. 只看到了循环语句。
