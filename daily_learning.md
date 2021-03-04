@@ -54,3 +54,8 @@ xzh:cs231n(5/4)篇
 
 Mar3:
 xzh:cs231n一篇
+
+Mar4：
+cj:配置win10 st-gcn可运行demo。 离散数学逻辑运算符号使用。 改ppt申请书。 python循环语句for <variable> in <list>: <statements>. 只看到了循环语句。
+
+
