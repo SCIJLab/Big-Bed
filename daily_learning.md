@@ -62,3 +62,4 @@ cj:配置win10 st-gcn可运行demo。 离散数学逻辑运算符号使用。 �
 xzh:cs231n一篇、骑马
 
 
+<br>ysx: nvcaffe成功并且通过build from source解决了几个库依赖的问题, but 像某某没有在src代码中声明报错，这种我实在懵了。三个一起搞了slides和applicton,离散看到全称量词。cod17
