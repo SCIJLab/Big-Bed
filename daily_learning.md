@@ -1,3 +1,4 @@
+变形记
 ***
 
 Feb21:
@@ -60,9 +61,9 @@ cj:西瓜书神经网络RBF网络
 Mar4：
 cj:配置win10 st-gcn可运行demo。 离散数学逻辑运算符号使用。 改ppt申请书。 python循环语句for <variable> in <list>: <statements>. 只看到了循环语句。
 xzh:cs231n一篇、骑马
-
-
 <br>ysx: nvcaffe成功并且通过build from source解决了几个库依赖的问题, but 像某某没有在src代码中声明报错，这种我实在懵了。三个一起搞了slides和applicton,离散看到全称量词。cod17
 
-Mar5：
+Mar5:
 cj:改ppt。下载了pycharm。学习了python 字典 列表 集合 循环 元组的用法。
+ysx: 三人通力合作修改答辩幻灯片，并在听取高学长建议后升级了品质。后通过看清华答辩压压惊。重读了STGCN的论文，java入门。效率略低
+
