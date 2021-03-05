@@ -63,3 +63,6 @@ xzh:cs231n一篇、骑马
 
 
 <br>ysx: nvcaffe成功并且通过build from source解决了几个库依赖的问题, but 像某某没有在src代码中声明报错，这种我实在懵了。三个一起搞了slides和applicton,离散看到全称量词。cod17
+
+Mar5：
+cj:改ppt。下载了pycharm。学习了python 字典 列表 集合 循环 元组的用法。
