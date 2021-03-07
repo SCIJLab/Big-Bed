@@ -51,28 +51,28 @@ cj:西瓜书神经网络bp训练算法。
 ysx: 看计算机网络的应用层。睡着摸鱼了。
 
 Mar2:
-xzh:cs231n(5/4)篇
-cj:null
+<br>xzh:cs231n(5/4)篇
+<br>cj:null
 
 Mar3:
-xzh:cs231n一篇
-cj:西瓜书神经网络RBF网络
+<br>xzh:cs231n一篇
+<br>cj:西瓜书神经网络RBF网络
 
 Mar4：
-cj:配置win10 st-gcn可运行demo。 离散数学逻辑运算符号使用。 改ppt申请书。 python循环语句for <variable> in <list>: <statements>. 只看到了循环语句。
-xzh:cs231n一篇、骑马
+<br>cj:配置win10 st-gcn可运行demo。 离散数学逻辑运算符号使用。 改ppt申请书。 python循环语句for <variable> in <list>: <statements>. 只看到了循环语句。
+<br>xzh:cs231n一篇、骑马
 <br>ysx: nvcaffe成功并且通过build from source解决了几个库依赖的问题, but 像某某没有在src代码中声明报错，这种我实在懵了。三个一起搞了slides和applicton,离散看到全称量词。cod17
 
 Mar5:
-cj:改ppt。下载了pycharm。学习了python 字典 列表 集合 循环 元组的用法。
-ysx: 三人通力合作修改答辩幻灯片，并在听取高学长建议后升级了品质。后通过看清华答辩压压惊。重读了STGCN的论文，java入门。效率略低
-xzh:cs231n一篇
+<br>cj:改ppt。下载了pycharm。学习了python 字典 列表 集合 循环 元组的用法。
+<br>ysx: 三人通力合作修改答辩幻灯片，并在听取高学长建议后升级了品质。后通过看清华答辩压压惊。重读了STGCN的论文，java入门。效率略低
+<br>xzh:cs231n一篇
 
 Mar6:
-xzh:cs231n一篇
-cj:python函数以及类对象，numpy里的数组，以及其操作。
+<br>xzh:cs231n一篇
+<br>cj:python函数以及类对象，numpy里的数组，以及其操作。
 <br>ysx:大创申请答辩(挺多时间)，复习了离散和离散作业1, 看了昨天我发的那篇CNN文献[今天很咸鱼...] 
 
 Mar7：
-cj:离散数学作业——除非，否则语句的翻译，等值演算的过程。
-xzh:cs231n一篇
+<br>cj:离散数学作业——除非，否则语句的翻译，等值演算的过程。
+<br>xzh:cs231n一篇
