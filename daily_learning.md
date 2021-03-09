@@ -82,6 +82,7 @@ Mar8:
 <br>xzh:论文一篇
 <br>cj:python矩阵表示以及运算（还没看完），看了一下计组和CSAPP，把离散练习题写完了。
 <br>ysx: csapp:chap2 done
+
 Mar9:
 <br>ysx:正在做csapp第二章的题并且解决这一章的问题
-<cj>cj:python数组访问方法，回看了五个C++面向对象的视频。
+<br>cj:python数组访问方法，回看了五个C++面向对象的视频。
