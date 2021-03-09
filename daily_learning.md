@@ -84,3 +84,4 @@ Mar8:
 <br>ysx: csapp:chap2 done
 Mar9:
 <br>ysx:正在做csapp第二章的题并且解决这一章的问题
+<cj>cj:python数组访问方法，回看了五个C++面向对象的视频。
