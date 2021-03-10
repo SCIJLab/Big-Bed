@@ -86,3 +86,4 @@ Mar8:
 Mar9:
 <br>ysx:正在做csapp第二章的题并且解决这一章的问题
 <br>cj:python数组访问方法，回看了五个C++面向对象的视频。
+<br>xzh:作业分散：早上linux相关，下午java高精度，晚上云服务器；该反思
