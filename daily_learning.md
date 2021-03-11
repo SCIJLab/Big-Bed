@@ -95,4 +95,4 @@ Mar10:
 
 Mar11:
 <br>cj:C++,初始化列表初始方法，类对象构造顺序，静态函数调用规则以及原因。numpy的广播机制，数组的计算（还剩下图像处理）。
-<br>xzh:Git练习(13:47) java io
+<br>xzh:Git练习(13:47) java io Git Test(23:19)
