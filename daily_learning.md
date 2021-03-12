@@ -98,7 +98,5 @@ Mar11:
 <br>xzh:Git练习(13:47) java io Git Test(23:19)
 
 Mar12:
-<br>
-
-xzh:数据库的安装与配置以及入门的相关学习,git_test_pull&push,git_test2_push$pull
-
+<br>xzh:数据库的安装与配置以及入门的相关学习,git_test_pull&push,git_test2_push$pull
+<br>cj:wordpress研究，其他null
