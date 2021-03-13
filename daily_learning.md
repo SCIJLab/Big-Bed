@@ -105,3 +105,4 @@ Mar12:
 Mar13:
 <br>xzh:git_vscode_test
 <br>ysx:java视频看到接口interface,还有一半继续。今天和外公外婆出去吃饭聊人生了。
+<br>c++:函数和类作友元;左值与右值，C语言中不允许&访问右值地址;const 修饰函数和对象，还有mutable关键字。刚开始加号运算符重载。
