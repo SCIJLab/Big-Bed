@@ -104,3 +104,4 @@ Mar12:
 
 Mar13:
 <br>xzh:git_vscode_test
+<br>ysx:java视频看到接口interface,还有一半继续。今天和外公外婆出去吃饭聊人生了。
