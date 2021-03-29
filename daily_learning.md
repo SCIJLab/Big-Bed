@@ -170,3 +170,9 @@ xzh:志愿者
 Mar:26
 
 xzh:试图学习jdbc，后中断，原因是不会sql；拿到了gpu使用权，写第二周的算法，配置docker环境，没有现成的
+
+Mar27:
+<br>xzh:大创但效率不高
+
+Mar28:
+<br>xzh:Linux作业
