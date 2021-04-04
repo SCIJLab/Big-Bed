@@ -1,4 +1,4 @@
-# 日期5-8以前科研计划：
+# 5-8以前科研计划：
 ### Mission Board
 - [ ] 把所有数据集传到服务器上(Portainer和瓜子学长的容器)
 - [ ] 训练官方数据集
@@ -6,6 +6,7 @@
 
 
 ### Bonus Mission Board
+> 文献放置于https://github.com/ShaoxuanYin/Essay-Reading
 - [ ] 阅读1篇文献:
 - [ ] 阅读5篇文献:
 - [ ] 阅读10篇文献:
